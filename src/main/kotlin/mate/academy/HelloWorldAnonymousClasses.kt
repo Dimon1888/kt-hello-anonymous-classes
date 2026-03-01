@@ -37,6 +37,5 @@ class HelloWorldAnonymousClasses {
         }
 
         return result
-        // TODO: implement
     }
 }
